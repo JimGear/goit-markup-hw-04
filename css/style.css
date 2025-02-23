@@ -459,6 +459,11 @@ address {
 .footer-container {
     display: flex;
     align-items: baseline;
+    width: 1158px;
+    margin-left: 156px;
+    margin-right: 156px;
+    margin: 0 auto;
+    padding: 0 15px
 }
 
 .footer-info-box {
